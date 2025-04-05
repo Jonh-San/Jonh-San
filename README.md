@@ -1,4 +1,4 @@
-## Olá Mundo!, Eu sou Jonh, Web Developer. <div> <a href="https://github.com/Jonh-San"> 
+## Olá Mundo!, Eu sou Jonathan, Web Developer. <div> <a href="https://github.com/Jonh-San"> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonh-san&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonh-san&layout=compact&langs_count=6&theme=tokyonight"/></div>
 
